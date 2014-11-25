@@ -1,0 +1,84 @@
+title: evansweb.info
+email: jon.evans@pobox.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Jon Evans, I used to be quite active in the BMW 7 Series (E32) community,
+  as I owned a 735iL, and I have a lot of information available in the BMW Repairs
+  section of the site.
+  From August 2004 to April 2011 I owned a Lexus LS400 Mk. IV. I have a Lexus Repairs
+  section, but it is fairly empty because nothing much seemed to go wrong with it.
+  In April 2011 I replaced the Lexus with a nearly-new Toyota Prius, the main aim
+  being to reduce my expenditure on petrol. With rising petrol prices the Lexus was
+  hovering at just under £100 per tank, which would last about 350 miles.
+  I live in Banbury, UK, with my wife Heidi and children James and Matthew.
+  You can email me at jon.evans@pobox.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+disqus_shortname: evansweb
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url: "" # "http://evansweb.info" # the base hostname & protocol for your site
+
+# Owner/author information
+owner:
+  name:           Jon Evans
+  avatar:         avatar.jpg
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          jon.evans@pobox.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        burmasauce
+  facebook:       
+  github:         evansj
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         jonevans
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +103883711129337499050
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/London
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   pretty
+
+# Amount of post to show on home page
+paginate: 5
+
+excerpt_separator: "\n<!-- read more -->\n"
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

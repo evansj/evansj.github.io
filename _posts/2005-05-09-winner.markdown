@@ -1,0 +1,13 @@
+---
+layout: post
+title: Winner
+tags: []
+typo_id: 7
+---
+This is my favourite bit from recent TV adverts:
+
+<img src="/files/winner-1.gif" height="240" width="320" border="1" hspace="4" vspace="4" alt="Michael Winner" title="Michael Winner" />
+
+Don't have nightmares.
+
+[Edit 2007-01-05] It's from one of those ESure adverts. I don't think they show it anymore.

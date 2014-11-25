@@ -1,0 +1,9 @@
+---
+layout: post
+title: Make Firefox behave more like Safari
+tags:
+- Apple
+typo_id: 35
+---
+<p>I use Command-Up and Command-Down in <a href="http://www.apple.com/safari/">Safari</a> all the time.  They are equivalent to the home and end keys, but they are a lot easier to use because there is a Command key right next to the arrow keys on my PowerBook keyboard, but the fn key is the other side of the keyboard and therefore needs two hands.  Another pair of useful keystrokes is Command-Left (Back) and Command-Right (Forward).</p><p>To make these work in <a href="http://www.mozilla.org/products/firefox/central.html">Firefox</a>, you have to edit one of the files, <span style="font-family: monospace;">/Applications/Firefox.app/ Contents/MacOS/res/builtin/platformHTMLBindings.xml</span>.</p><p>Open that file in an editor and find the section that starts <span style="font-family: monospace;">&lt;binding id="browser"&gt;</span>.  Inside that section you'll see a load of <span style="font-family: monospace;">&lt;handler event="keypress"...</span> lines.  Add the following lines somewhere in that section:</p><p><span style="font-family: monospace;">&lt;handler event="keypress" keycode="VK_UP"   modifiers="accel" command="cmd_scrollTop"/&gt;<br/>&lt;handler event="keypress" keycode="VK_DOWN" modifiers="accel" command="cmd_scrollBottom"/&gt;<br/>&lt;handler event="keypress" keycode="VK_LEFT" modifiers="accel" command="Browser:Back"/&gt;<br/>&lt;handler event="keypress" keycode="VK_RIGHT" modifiers="accel" command="Browser:Forward"/&gt;<br/></span></p><p>Save the file and restart Firefox to apply the changes.  Don't forget though, because you've edited one of the files included in Firefox.app, if you upgrade Firefox you'll need to apply the changes again.  There is supposed to be a mechanism whereby you can make the change in your user profile directory, but that feature is currently broken.
+</p>
