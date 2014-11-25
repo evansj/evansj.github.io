@@ -19,7 +19,7 @@ Here's a Genius playlist which my iPhone picked for my journey home from work to
 <li><b>Hourglass</b> - Squeeze <i>(#16 in 1987, my pick for a karaoke if I'm ever drunk enough)</i></li>
 <li><b>Step On</b> - Happy Mondays <i>(#5 in 1990, can you believe it was a cover of a 1971 song?)</i></li>
 <li><b>Step It Up</b> - Stereo MC's <i>(#12 in 1993)</i></li>
-<li><b>Hit</b> - Sugarcubes <i>(#17 in 1991, just before Björk left for solo stardom)</i></li>
+<li><b>Hit</b> - Sugarcubes <i>(#17 in 1991, just before Bj&ouml;rk left for solo stardom)</i></li>
 <li><b>Good Morning Britain</b> - Aztec Camera <i>(#19 in 1990)</i></li>
 <li><b>Diary of Horace Wimp</b> - The Electric Light Orchestra <i>(#5 in 1979)</i></li>
 <li><b>Sound and Vision</b> - David Bowie <i>(#3 in 1977)</i></li>

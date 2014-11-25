@@ -14,7 +14,7 @@ I procrastinated for 2 weeks, then last Monday (21st November) I ordered a pair 
 
 I got a phone call from one of the technicians at Glasses Direct, querying whether I really wanted to pay extra for thin lenses, when my prescription was so slight it probably wouldn't make much difference.  So I cancelled that option and saved 40 quid!
 
-This morning (Saturday 26th November) my glasses arrived in the post, and the lenses are almost imperceptibly thicker than the lenses in my last pair, so that was a really good call by Glasses Direct.  None of the opticians I've used in the past have ever thought to point out to me that the Ã¢â‚¬Å“thin lensesÃ¢â‚¬Â option isn't much thinner than normal lenses for my prescription.
+This morning (Saturday 26th November) my glasses arrived in the post, and the lenses are almost imperceptibly thicker than the lenses in my last pair, so that was a really good call by Glasses Direct.  None of the opticians I've used in the past have ever thought to point out to me that the "thin lenses" option isn't much thinner than normal lenses for my prescription.
 
 The glasses were supplied in a proper case, with a cloth and a small sticker on one of the lenses reminding me that it was my own responsibility to ensure that I was wearing the correct prescription.   Around the glasses case was the receipt, confirming that I'd paid a total of &pound;87.50 including post and packing.  That's the cheapest pair of glasses I've bought since I was about 16, and they only took 5 days to arrive.
 

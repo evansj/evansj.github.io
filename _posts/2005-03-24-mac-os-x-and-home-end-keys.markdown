@@ -9,7 +9,7 @@ The default key bindings for the home and end keys in Mac OS X are different to 
 
 As a programmer I find this behaviour to be just plain wrong&mdash; I want Home and End to move to the start and end of the current line.
 
-I have found a way to "fix"Â this problem by editing the default keybindings file, <kbd>~/Library/KeyBindings/DefaultKeyBinding.dict</kbd>.  Create the directory and / or the file if they're not already there, and make it look like this:
+I have found a way to "fix" this problem by editing the default keybindings file, <kbd>~/Library/KeyBindings/DefaultKeyBinding.dict</kbd>.  Create the directory and / or the file if they're not already there, and make it look like this:
 
 <pre>
 {
