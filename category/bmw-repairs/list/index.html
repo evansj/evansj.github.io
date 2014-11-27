@@ -1,0 +1,18 @@
+---
+layout: post-index
+title: BMW Repairs
+description: "All posts tagged 'BMW Repairs'"
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<article>
+  <h2 id="{{ this_word }}">{{ this_word }}</h2>
+  <ul>
+  {% for post in site.tags["BMW Repairs"] %}{% if post.title != null %}
+    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{post.date | date: '%B %d, %Y'}}</li>
+  {% endif %}{% endfor %}
+  </ul>
+</article><!-- /.hentry -->
