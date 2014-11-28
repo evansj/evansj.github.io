@@ -12,7 +12,7 @@ comments: false
   <h2 id="{{ this_word }}">{{ this_word }}</h2>
   <ul>
   {% for post in site.tags["BMW Repairs"] %}{% if post.title != null %}
-    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{post.date | date: '%B %d, %Y'}}</li>
+    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{post.date | date: "%-d %B %Y"}}</li>
   {% endif %}{% endfor %}
   </ul>
 </article><!-- /.hentry -->
