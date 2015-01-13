@@ -13,12 +13,14 @@ Symptoms
 * loss of coolant
 * evidence of water spray in a circle around the fan - check the bonnet lining and sides of the radiator hoses
 * dampness on the front of the engine underneath the fan (after the car has been sat for a few hours)
+
 <!-- read more -->
+
 <img src="/files/20030118230916346_5.jpg" height="301" width="401" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 5" />
 
 You will need
 -------------
-     
+
 * a replacement water pump - try [Euro Car Parts](http://www.eurocarparts.com/).
 * a 32mm spanner for the viscous coupling on the fan
 * a mallet to hit the 32mm spanner with (really!)
@@ -65,6 +67,7 @@ There are six bolts around the pump.  The ones at the bottom are easier  to loca
 
 The old pump
 ------------
+
 <img src="/files/20030118230916346_3.jpg" height="400" width="312" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 3" />
 
 Prepare for the new pump
