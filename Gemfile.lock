@@ -124,3 +124,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+
+RUBY VERSION
+   ruby 2.1.10p492
+
+BUNDLED WITH
+   1.15.1
