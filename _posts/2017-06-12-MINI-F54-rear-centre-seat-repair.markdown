@@ -42,7 +42,28 @@ Next, pull the leather over the top of the seat to expose the plastic section wh
 
 <div style="text-align:center;"><img src="/files/mini/page/IMG_6044.jpg" alt="Four round clips" border="0" width="1024" height="768" /></div>
 
-Now you can remove the plastic top piece of the seat. There are two torx bolts at the top. Once you remove them, move the top piece forward until you can unclip the cable that operates the latch. The cable surround pops out, then the cable itself can push through the hole in the handle and be released.
+Now you can remove the plastic top piece of the seat. There are two torx bolts at the top. Once you remove them, move the top piece forward until you can unclip the cable that operates the latch. The cable surround pops out, then the cable itself can push through the hole in the handle and be released. You can now retreat indoors with the whole top section. Make sure you don't lose the spring (the cause of the rattle). NB I took this photo of the cable release while I was reassembling it, so it contains a spoiler for the fix that I did.
 
 <div style="text-align:center;"><img src="/files/mini/page/IMG_6043.jpg" alt="Actuating cable" border="0" width="1024" height="768" /></div>
 
+The spring hooks between the handle and the main piece, and holds the handle in the closed position. The problem is that the place where it hooks onto is very weak for such a strong spring and has broken (although still just about attached).
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6033.jpg" alt="Spring in severely weakened clip" border="0" width="1024" height="768" /></div>
+
+I don't think even superglue is up to fixing this so I strengthened it with a piece of paperclip. After bending it unto an elongated U-shape, and drilling four small holes, I came up with this:
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6034.jpg" alt="Two new holes" border="0" width="1024" height="768" /></div>
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6036.jpg" alt="Paperclip strenghtening" border="0" width="1024" height="768" /></div>
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6038.jpg" alt="Paperclip strengthening" border="0" width="1024" height="768" /></div>
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6039.jpg" alt="The finished product" border="0" width="1024" height="768" /></div>
+
+You could use hot-melt glue or similar on the paperclip to prevent rattles, but I'm sure the strength of the spring itself will stop any rattling.
+
+Putting everything back together is the reverse of taking it apart, until you get to the seat back. You have to install the seat back *before* clipping the leather around the sides. It's a pretty difficult job but once it goes back together it should look exactly the same as before you started.
+
+<div style="text-align:center;"><img src="/files/mini/page/IMG_6056.jpg" alt="Seat back replaced" border="0" width="1024" height="768" /></div>
+
+Now you can put the plastic clips etc. back on.
