@@ -11,4 +11,4 @@ If you ever need to connect an aftermarket amp to your head unit, it might be us
 <!-- read more -->
 Here is the diagram I drew. The view is looking into the end of the disconnected plugs, the one on the left goes into the black socket of the amp, the one on the right goes into the white socket. Between them you will find a 10 amp blade fuse.
 
-<img src="/files/2003012021585225_1.jpg" height="400" width="850" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012021585225 1" />
+![Images Articles 2003012021585225 1]({{ site.baseurl }}/files/2003012021585225_1.jpg)

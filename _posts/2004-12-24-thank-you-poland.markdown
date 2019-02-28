@@ -6,4 +6,4 @@ tags:
 - t'internet
 typo_id: 26
 ---
-<p><a href="http://kwiki.ffii.org/Cons041221En">Software patents are a terrible idea.</a>  <a href="http://thankpoland.info/">Sign the "Thank you, Poland!" letter</a></p>
+[Software patents are a terrible idea](https://kwiki.ffii.org/Cons041221En).  [Sign the "Thank you, Poland!" letter](https://thankpoland.info/)

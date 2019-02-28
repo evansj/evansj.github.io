@@ -8,7 +8,7 @@ typo_id: 335
 ---
 This is a repair I did a while ago, and it still seems to be working fine.
 
-<div style="text-align:center;"><img src="http://evansweb.info/files/P11102891.jpg" alt="P1110289.jpg" border="0" width="400" height="212" /></div>
+![P1110289.jpg]({{ site.baseurl }}/files/P11102891.jpg)
 
 Read on for more details.
 <!-- read more -->
@@ -32,8 +32,8 @@ I had to get my headlamp levels adjusted afterwards. The problem was that the ro
 
 There follows some pictures of the new rod in place. As you can see, SGS did a really neat job with the new rod.
 
-<div style="text-align:center;"><img src="http://evansweb.info/files/P1110301.jpg" alt="P1110301.jpg" border="0" width="800" height="600" /></div>
+![P1110301.jpg]({{ site.baseurl }}/files/P1110301.jpg)
 
-<div style="text-align:center;"><img src="http://evansweb.info/files/P1110302.jpg" alt="P1110302.jpg" border="0" width="800" height="600" /></div>
+![P1110302.jpg]({{ site.baseurl }}/files/P1110302.jpg)
 
-<div style="text-align:center;"><img src="http://evansweb.info/files/P1110303.jpg" alt="P1110303.jpg" border="0" width="800" height="600" /></div>
+![P1110303.jpg]({{ site.baseurl }}/files/P1110303.jpg)

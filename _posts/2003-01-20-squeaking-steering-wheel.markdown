@@ -20,13 +20,13 @@ Insert the key and turn it to position 1 and back to unlock the steering wheel, 
 
 When I removed the wheel I found brass shavings from the ring and the contact all over the steering column.
 
-<img src="/files/20030120231108671_1.jpg" height="577" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120231108671 1" />
+![Images Articles 20030120231108671 1]({{ site.baseurl }}/files/20030120231108671_1.jpg)
 
 The contact vertically above the steering column is the horn contact.
 
 This is the inside of the steering wheel, showing the horn slip ring.
 
-<img src="/files/20030120231108671_2.jpg" height="371" width="400" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120231108671 2" />
+![Images Articles 20030120231108671 2]({{ site.baseurl }}/files/20030120231108671_2.jpg)
 
 Clean off all the brass dust and apply new grease. Making sure the indicators are still in the off position, replace the steering wheel. Re-apply the steering lock by removing the key.
 

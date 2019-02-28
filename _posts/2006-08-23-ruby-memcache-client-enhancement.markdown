@@ -6,28 +6,26 @@ tags:
 - Ruby
 typo_id: 122
 ---
-Recently I have been refactoring some code so that various computed results are saved in a [memcached][memcache-client] cache to improve performance.
+Recently I have been refactoring some code so that various computed results are saved in a memcached cache to improve performance.
 
 A common cache idiom is:
 
 1. Compute cache key
-1. look up key in cache
-1. if value found, return it
-1. else, run some code to generate the required value
-1. save the generated value in the cache
-1. return the value
+2. look up key in cache
+3. if value found, return it
+4. else, run some code to generate the required value
+5. save the generated value in the cache
+6. return the value
 
 It's quite awkward to have that code repeated all over your app, so I hit upon the idea
 of passing a block to `Cache#get()` which would be used to compute
 the value if the key wasn't found in the cache.
 
-[memcache-client]: http://rubyforge.org/projects/rctools "RubyForge page for rctools"
-
-
 <!-- read more -->
 
 My proof of concept code to add this functionality to the `Cache` module is:
 
+```ruby
     module Cache
       class << self
         alias _get get
@@ -42,12 +40,14 @@ My proof of concept code to add this functionality to the `Cache` module is:
         value
       end
     end
+```
 
 If no block is given, it works exactly the same as the original get() method.  If a block is given then the block is
 executed to generate the value if it isn't found in the cache.  The value is then stored in the cache and returned.
 
 My code looks nicer now, instead of this:
 
+```ruby
     cache_key = "#{some}/#{vars}"
     value = Cache.get cache_key
     unless value
@@ -55,13 +55,16 @@ My code looks nicer now, instead of this:
       Cache.put cache_key, value, 10.minutes
     end
     value
+```
 
 I now have this:
 
+```ruby
     Cache.get("#{some}/#{vars}", 10.minutes) do
       a_SOAP_call_that_takes_a_few_seconds()
     end
+```
 
 I have [logged this possible enhancement][bug] to the bug tracker for memcache-client.
 
-[bug]: http://rubyforge.org/tracker/index.php?func=detail&aid=5495&group_id=1266&atid=4981 "[#5495] [ENHANCEMENT] Better implementation of Cache.get"
+[bug]: https://web.archive.org/web/20080128071219/http://rubyforge.org/tracker/index.php?func=detail&aid=5495&group_id=1266&atid=4981 "[#5495] [ENHANCEMENT] Better implementation of Cache.get"

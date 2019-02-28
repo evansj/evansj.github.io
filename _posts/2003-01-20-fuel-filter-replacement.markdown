@@ -26,5 +26,5 @@ Procedure:
 
 Here is a picture of the underside of the car, showing the location of the fuel filter. You are looking up at the right rear wheel.
 
-<img src="/files/20030120233844692_1.jpg" height="450" width="600" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120233844692 1" />
+![Images Articles 20030120233844692 1]({{ site.baseurl }}/files/20030120233844692_1.jpg)
 

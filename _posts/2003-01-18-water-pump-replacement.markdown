@@ -16,7 +16,7 @@ Symptoms
 
 <!-- read more -->
 
-<img src="/files/20030118230916346_5.jpg" height="301" width="401" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 5" />
+![Images Articles 20030118230916346 5]({{ site.baseurl }}/files/20030118230916346_5.jpg)
 
 You will need
 -------------
@@ -35,7 +35,7 @@ You will need
 Procedure
 ---------
 
-<img src="/files/20030118230916346_1.jpg" height="500" width="375" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 1" />
+![Images Articles 20030118230916346 1]({{ site.baseurl }}/files/20030118230916346_1.jpg)
 
 Remove the fan
 --------------
@@ -49,7 +49,7 @@ Remove the pulley
 Loosen the four pulley bolts.  Now loosen the belt tensioning bolt on the alternator.  Rotate the front adjuster nut clockwise to crank the alternator further into the engine and therefore loosen the belt.  Now go back to the fan pulley and fully remove the four bolts, then remove the pulley.  Let the belt hang in place.
 
 
-<img src="/files/20030118230916346_2.jpg" height="500" width="427" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 2" />
+![Images Articles 20030118230916346 2]({{ site.baseurl }}/files/20030118230916346_2.jpg)
 
 Remove the engine hoist bracket
 -------------------------------
@@ -63,12 +63,12 @@ Pump
 ----
 There are six bolts around the pump.  The ones at the bottom are easier  to locate by touch.  When you start to slacken off the last bolt, coolant  will start to seep out from behind the pump.  When the bolts are all  out, pull away the pump and remove it from the short hose.  Coolant will flood out of the front of the engine.  Remove the short hose.
 
-<img src="/files/20030118230916346_4.jpg" height="375" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 4" />
+![Images Articles 20030118230916346 4]({{ site.baseurl }}/files/20030118230916346_4.jpg)
 
 The old pump
 ------------
 
-<img src="/files/20030118230916346_3.jpg" height="400" width="312" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230916346 3" />
+![Images Articles 20030118230916346 3]({{ site.baseurl }}/files/20030118230916346_3.jpg)
 
 Prepare for the new pump
 ------------------------

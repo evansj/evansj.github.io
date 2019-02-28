@@ -26,7 +26,7 @@ attached to the seat base.  There is a piece of rubber on one end of it which is
 
 
 
-<img src="/files/20030118230556915_1.jpg" height="375" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118230556915 1" />
+![Images Articles 20030118230556915 1]({{ site.baseurl }}/files/20030118230556915_1.jpg)
 
 If your car is like mine you will find a little note taped into position at the back of one of your seats. If you remove it and unfold it it appears to be a production schedule for the car. It includes the
 chassis number, which may be helpful if your car is ever stolen.

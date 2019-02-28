@@ -17,21 +17,21 @@ Here's some pictures.
 
 First, you need to crack the glue around the edge of the torch to separate the two sides. Pull the front lens off first.
 
-<img src="/files/2003012000505248_1.jpg" height="260" width="401" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012000505248 1" />
+![Images Articles 2003012000505248 1]({{ site.baseurl }}/files/2003012000505248_1.jpg)
 
 Now you need to remove all of the original components so you are just left with the two sides.
 
-<img src="/files/2003012000505248_2.jpg" height="274" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012000505248 2" />
+![Images Articles 2003012000505248 2]({{ site.baseurl }}/files/2003012000505248_2.jpg)
 
 Take a mini drill and a suitable burr bit, and grind away the plastic which used to support the battery.
 
-<img src="/files/2003012000505248_3.jpg" height="186" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012000505248 3" />
+![Images Articles 2003012000505248 3]({{ site.baseurl }}/files/2003012000505248_3.jpg)
 
 Lay out your components and work out how they are going to fit. I mounted three LEDs on a piece of stripboard cut to fit in the same place as the piece of metal which the original bulb screwed into. I had to enlarge the slots with the drill first.
 
-<img src="/files/2003012000505248_4.jpg" height="315" width="400" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012000505248 4" />
+![Images Articles 2003012000505248 4]({{ site.baseurl }}/files/2003012000505248_4.jpg)
 
 Now you just snap the two sides back together and fix them - I will need to take mine apart again when I decide which switch I'm going to use, so for now I've sealed it with white electrical tape.
 
-<img src="/files/2003012000505248_5.jpg" height="256" width="400" border="1" hspace="4" vspace="4" alt=" Images Articles 2003012000505248 5" />
+![Images Articles 2003012000505248 5]({{ site.baseurl }}/files/2003012000505248_5.jpg)
 

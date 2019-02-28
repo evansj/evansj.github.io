@@ -25,4 +25,4 @@ As BMWs are European, everything is in metric, which is a good thing. :-)
 
 Since the photo was taken I bought a replacement allen key from the dealer, it only cost a few pounds.
 
-<img src="/files/20030120220610679_1.jpg" height="301" width="401" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120220610679 1" />
+![Images Articles 20030120220610679 1]({{ site.baseurl }}/files/20030120220610679_1.jpg)

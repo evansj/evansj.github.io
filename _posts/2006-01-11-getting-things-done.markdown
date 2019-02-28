@@ -5,7 +5,7 @@ tags:
 - News
 typo_id: 116
 ---
-I bought a book called "<a href="http://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&tag=evanswebinfo-21&camp=1634&creative=6738&path=ASIN%2F0749922648">Getting Things Done</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=evanswebinfo-21&amp;l=ur2&amp;o=2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />" by David Allen.  It arrived on Monday.
+I bought a book called **Getting Things Done** by David Allen.  It arrived on Monday.
 
 I haven't had time to read past the prologue yet.
 

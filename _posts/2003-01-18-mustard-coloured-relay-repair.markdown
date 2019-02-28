@@ -12,14 +12,14 @@ I started getting warning messages about the tail lights and sidelights, when th
 <p><b>Step 1</b> open the fusebox - it is located near the windscreen on
 the left hand side of the car.</p>
 <p>
-<img src="/files/20030118234657902_1.jpg" height="312" width="400" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118234657902 1" />
+![Images Articles 20030118234657902 1]({{ site.baseurl }}/files/20030118234657902_1.jpg)
 
 
  </p>
 <p><b>Step 2</b> locate the mustard coloured relay in the centre of the fusebox
  and remove it<br>
 
-<img src="/files/20030118234657902_2.jpg" height="386" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118234657902 2" />
+![Images Articles 20030118234657902 2]({{ site.baseurl }}/files/20030118234657902_2.jpg)
 
 </p>
 <p><b>Step 3</b> ease open the three clips around the bottom of the relay
@@ -29,7 +29,7 @@ bad solder joints.  The easiest thing to do is resolder all of them.  I used
 a 25 watt soldering iron, my 15 watt wasn't up to the job.  </p>
 
 <p>
-<img src="/files/20030118234657902_3.jpg" height="286" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118234657902 3" />
+![Images Articles 20030118234657902 3]({{ site.baseurl }}/files/20030118234657902_3.jpg)
 </p>
 <p>As you can see, most of my solder joints have gone bad.  I've labeled
 a couple of them. </p>
@@ -37,6 +37,6 @@ a couple of them. </p>
 relays first to remove all the old solder.  This step is strictly
 optional!</p>
 <p>
-<img src="/files/20030118234657902_4.jpg" height="297" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118234657902 4" />
+![Images Articles 20030118234657902 4]({{ site.baseurl }}/files/20030118234657902_4.jpg)
 </p>
 <p><b>Step 5</b> clip the relay back together and return it to the car. </p>

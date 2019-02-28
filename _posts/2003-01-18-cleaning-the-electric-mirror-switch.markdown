@@ -15,7 +15,7 @@ It turned out that the mirror switch worked fine, but it was so nicely made that
 
 *Step 3* clean the gold contacts on the circuit board
 
-<img src="/files/20030118235018378_1.jpg" height="451" width="600" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235018378 1" />
+![Images Articles 20030118235018378 1]({{ site.baseurl }}/files/20030118235018378_1.jpg)
 
 *Step 4* clip the switch back together (keep the switch facing down and place the circuit board on top, then click it back into place
 

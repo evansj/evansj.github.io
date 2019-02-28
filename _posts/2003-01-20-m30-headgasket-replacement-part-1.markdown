@@ -15,41 +15,41 @@ Here are the replacement parts I had bought for the job. I got most of them from
 
 First, the new gasket itself, and the rocker cover gasket:
 
-<img src="/files/20030120222157117_1.jpg" height="302" width="801" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 1" />
+![Images Articles 20030120222157117 1]({{ site.baseurl }}/files/20030120222157117_1.jpg)
 
 If you've never seen a head gasket before, you will be surprised at how well made they are. I was expecting a piece of paper, but as you can see they are quite thick, and some of the holes (like the cylider bore holes) are reinforced with metal.
 
 Here's a closer look
 
-<img src="/files/20030120222157117_2.jpg" height="418" width="599" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 2" />
+![Images Articles 20030120222157117 2]({{ site.baseurl }}/files/20030120222157117_2.jpg)
 
 You also need 14 new head bolts
 
-<img src="/files/20030120222157117_3.jpg" height="345" width="400" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 3" />
+![Images Articles 20030120222157117 3]({{ site.baseurl }}/files/20030120222157117_3.jpg)
 
 These are the combined gaskets and heat shields from the exhaust manifold
 
-<img src="/files/20030120222157117_4.jpg" height="421" width="600" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 4" />
+![Images Articles 20030120222157117 4]({{ site.baseurl }}/files/20030120222157117_4.jpg)
 
 This is the new seal for the camshaft, where it comes out behind the distributor to drive the rotor arm
 
-<img src="/files/20030120222157117_5.jpg" height="280" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 5" />
+![Images Articles 20030120222157117 5]({{ site.baseurl }}/files/20030120222157117_5.jpg)
 
 There were three bags of assorted components, here is the first...
 
-<img src="/files/20030120222157117_6.jpg" height="397" width="599" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 6" />
+![Images Articles 20030120222157117 6]({{ site.baseurl }}/files/20030120222157117_6.jpg)
 
 ...the second...
 
-<img src="/files/20030120222157117_7.jpg" height="214" width="401" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 7" />
+![Images Articles 20030120222157117 7]({{ site.baseurl }}/files/20030120222157117_7.jpg)
 
 ...and the third.
 
-<img src="/files/20030120222157117_8.jpg" height="400" width="299" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 8" />
+![Images Articles 20030120222157117 8]({{ site.baseurl }}/files/20030120222157117_8.jpg)
 
 The long strips in bag 1 and 2 are for the sides of the top timing chain cover. The 12 parts in bag 3 are valve stem seals. I didn't bother with those as I didn't strip down the head. Most of bag 2 is inlet manifold gaskets.
 This is the new thermostat
 
-<img src="/files/20030120222157117_9.jpg" height="302" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120222157117 9" />
+![Images Articles 20030120222157117 9]({{ site.baseurl }}/files/20030120222157117_9.jpg)
 
-More to come in [Part 2](/articles/2003/01/20/m30-headgasket-replacement-part-2).
+More to come in [Part 2]({{ site.baseurl }}{% post_url 2003-01-20-m30-headgasket-replacement-part-2 %}).

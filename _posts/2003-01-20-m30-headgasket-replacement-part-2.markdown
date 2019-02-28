@@ -9,7 +9,7 @@ typo_id: 83
 ---
 This is part 2 of the replacement procedure for the M30 headgasket.
 <!-- read more -->
-[Part 1](/articles/2003/01/20/m30-headgasket-replacement-part-1) introduced you to some of the new parts required in a head gasket replacement. Part 2 covers the actual removal of the cylinder head.
+[Part 1]({{ site.baseurl }}{% post_url 2003-01-20-m30-headgasket-replacement-part-1 %}) introduced you to some of the new parts required in a head gasket replacement. Part 2 covers the actual removal of the cylinder head.
 
 ## Drain coolant
 
@@ -22,7 +22,7 @@ Run the engine for about 3 minutes to put some heat in the head. This helps to p
 Switch off the engine. You should have the car in the right place to do the job now, as it won't be moving (without help) for at least the next 11 hours.
 You need to remove lots of things from around the engine before you can lift the head.
 
-<img src="/files/20030120223448858_1.jpg" height="451" width="600" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120223448858 1" />
+![Images Articles 20030120223448858 1]({{ site.baseurl }}/files/20030120223448858_1.jpg)
 
 ## Air filter
 
@@ -41,7 +41,7 @@ Remove the top plastic cover, held in place with a single bolt. Unplug the throt
 ## Inlet pipe
 There is only one bit of inlet pipe left now, attached to the throttle butterfly. Loosen the hose clip on it and pull it off the throttle, then unplug the vacuum hoses from it and remove it.
 
-<img src="/files/20030120223448858_2.jpg" height="295" width="330" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120223448858 2" />
+![Images Articles 20030120223448858 2]({{ site.baseurl }}/files/20030120223448858_2.jpg)
 
 ## Distributor and HT leads
 Undo the 3 bolts holding the distributor cap to the front of the engine. Undo the 2 nuts holding the HT lead channel to the rocker cover. Unplug all of the spark plugs. Unplug the lead which goes to the coil. Unplug the two sensor cables from the other cabling channel on the rocker cover - one of them goes to a pickup on one of the spark plug leads. The distributor cap and cables can now be removed.
@@ -52,7 +52,7 @@ Undo the three bolts holding the rotor arm in place, and remove it, along with t
 ## Exhaust
 Jack the side of the car up and support it on a jack stand. Working underneath the car, undo the four nuts holding the two downpipes to the exhaust manifold. Be careful you don't loose the four springs.
 
-<img src="/files/20030120223448858_3.jpg" height="376" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030120223448858 3" />
+![Images Articles 20030120223448858 3]({{ site.baseurl }}/files/20030120223448858_3.jpg)
 
 ## Inlet manifold support bracket
 This is held in place with 3 bolts. Remove them and the bracket.

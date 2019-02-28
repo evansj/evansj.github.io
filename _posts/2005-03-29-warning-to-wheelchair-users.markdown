@@ -5,8 +5,6 @@ tags:
 - General
 typo_id: 11
 ---
-<p>Spotted at <a href="http://www.warwick-castle.co.uk/">Warwick Castle</a>:</p>
+Spotted at [Warwick Castle](https://www.warwick-castle.com):
 
-<p>
-<img src="http://evansweb.info/blojsom/resources/default/unsuitable_for_wheelchair_users.gif" height="218" width="300" border="1" hspace="4" vspace="4" alt="Unsuitable For Wheelchair Users" />
-</p>
+![Unsuitable For Wheelchair Users]({{ site.baseurl }}/files/unsuitable_for_wheelchair_users.jpg)

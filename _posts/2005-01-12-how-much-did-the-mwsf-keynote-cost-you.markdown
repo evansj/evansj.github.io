@@ -6,8 +6,8 @@ tags:
 - t'internet
 typo_id: 24
 ---
-<blockquote><p><a href="http://nslog.com/archives/2005/01/11/qotd_expensive_keynotes.php">How much did the MWSF Keynote cost you?</a></p></blockquote>
+[How much did the MWSF Keynote cost you?](https://web.archive.org/web/20050112215154/http://nslog.com/archives/2005/01/11/qotd_expensive_keynotes.php)
 
-<p>Answer: &pound;98.  I ordered <a href="http://www.apple.com/iwork/">iWork 05</a> and <a href="http://www.apple.com/ilife/">iLife 05</a> last night as soon as I'd finished watching <a href="http://stream.apple.akadns.net/">the keynote</a>.  Which took until 2am because the rest of the world was also trying to watch it.</p>
+Answer: &pound;98.  I ordered [iWork 05](https://en.wikipedia.org/wiki/IWork#Major_releases) and [iLife](https://en.wikipedia.org/wiki/ILife#Releases_and_history) last night as soon as I'd finished watching the keynote.  Which took until 2am because the rest of the world was also trying to watch it.
 
-<p>The 1GB <a href="http://www.apple.com/ipodshuffle/">iPod shuffle</a> can also serve as a plain 1GB USB memory stick, so I'll probably get one at some point.  It would also be nice to replace the Windows box in the basement with a <a href="http://www.apple.com/macmini/">Mac mini</a>.  It's pretty much only used by my kids for browsing <a href="http://www.bbc.co.uk/cbeebies/">Cbeebies</a>.</p>
+The 1GB [iPod shuffle](https://en.wikipedia.org/wiki/IPod_Shuffle#1st_generation) can also serve as a plain 1GB USB memory stick, so I'll probably get one at some point.  It would also be nice to replace the Windows box in the basement with a [Mac mini](https://www.apple.com/macmini/).  It's pretty much only used by my kids for browsing [Cbeebies](https://www.bbc.co.uk/cbeebies/).

@@ -40,23 +40,23 @@ Installation
 ------------
 The switch here is the electric window switch from the left rear door of my car.
 
-<img src="/files/20030118235927223_1.jpg" height="285" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 1" />
+![Images Articles 20030118235927223 1]({{ site.baseurl }}/files/20030118235927223_1.jpg)
 
 The front of the switch unclips from the back by easing it apart at the hinges.
 
-<img src="/files/20030118235927223_2.jpg" height="263" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 2" />
+![Images Articles 20030118235927223 2]({{ site.baseurl }}/files/20030118235927223_2.jpg)
 
 The inside of the switch could do with a clean... I always use Super Servisol 10 Switch Cleaning Lubricant, although you could use isopropyl alcohol, which you can get from your local chemist.
 
-<img src="/files/20030118235927223_3.jpg" height="283" width="500" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 3" />
+![Images Articles 20030118235927223 3]({{ site.baseurl }}/files/20030118235927223_3.jpg)
 
 The contact wipers pull out from the front of the switch. Remove them and give them a clean. There are two small springs behind each wiper, be careful not to lose them.
 
-<img src="/files/20030118235927223_4.jpg" height="300" width="206" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 4" />
+![Images Articles 20030118235927223 4]({{ site.baseurl }}/files/20030118235927223_4.jpg)
 
 The old bulb should be removed by cutting its leads. You may damage the switch if you try to de-solder it. Here is the bulb after removal:
 
-<img src="/files/20030118235927223_5.jpg" height="267" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 5" />
+![Images Articles 20030118235927223 5]({{ site.baseurl }}/files/20030118235927223_5.jpg)
 
 It is approximately 3.5mm diameter, 11mm long.
 
@@ -64,18 +64,18 @@ The next thing to do is note which pins of the switch were connected to the bulb
 
 The LED and resistor need some preparation first. The leads will need trimming to fit both components in the body of the switch. The following picture shows the resistor with one leg soldered in place, and the LED in position but un-soldered. The other leg of the resistor has been bent so it is close to the LED leg ready for soldering. What isn't clear in the picture is that the LED is sticking up about 5mm above the level of the top of the black tube it is mounted in.
 
-<img src="/files/20030118235927223_6.jpg" height="275" width="300" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 6" />
+![Images Articles 20030118235927223 6]({{ site.baseurl }}/files/20030118235927223_6.jpg)
 
 Now you are ready to connect up the LED. Solder one leg to the resistor, and the other to the pad on the switch. Cut the leads nice and short and bend them out of the way, and you should be left with something like this:
 
-<img src="/files/20030118235927223_7.jpg" height="300" width="188" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 7" />
+![Images Articles 20030118235927223 7]({{ site.baseurl }}/files/20030118235927223_7.jpg)
 
 All that remains to be done now is to test it. If you've got a 12v power supply you would be advised to do that before you reassemble the switch, if not you'll have to put it back together completely and test it in the car. Here is an extremely long exposure of the finished product, in a darkened room and powered by the 12v output of an old PC power supply:
 
-<img src="/files/20030118235927223_8.jpg" height="162" width="301" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 8" />
+![Images Articles 20030118235927223 8]({{ site.baseurl }}/files/20030118235927223_8.jpg)
 
 I also replaced both burnt out bulbs in my rear blind switch with LEDs, here's a picture of it being tested before reassembly:
 
-<img src="/files/20030118235927223_9.jpg" height="300" width="425" border="1" hspace="4" vspace="4" alt=" Images Articles 20030118235927223 9" />
+![Images Articles 20030118235927223 9]({{ site.baseurl }}/files/20030118235927223_9.jpg)
 
  

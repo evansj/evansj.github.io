@@ -19,9 +19,8 @@ so I've added another step.
 
 *Updated 2007-01-12:* Version 2.12 is back on Logitech's site. Unfortunately, it is still broken.
 
-*Updated 2007-01-23:* [Logitech have fixed the bug](http://evansweb.info/articles/2007/01/22/logitech-mx-revolution-drivers-fixed).
+*Updated 2007-01-23:* [Logitech have fixed the bug]({{ site.baseurl }}{% post_url 2007-01-22-logitech-mx-revolution-drivers-fixed %}.
 I've removed the download as it's not needed any more.
-
 
 <!-- read more -->
 
@@ -53,5 +52,4 @@ Technically, you could probably avoid the need to restart by doing this:
 
 I'll leave the file available until Logitech release a fixed version.
 
-If you'd rather just revert to version 2.11 until they fix it, you can download that version
-from Logitech [here](http://www.logitech.com/pub/techsupport/mouse/mac/lcc211.dmg).
+If you'd rather just revert to version 2.11 until they fix it, you can download that version from Logitech.

@@ -5,7 +5,7 @@ tags: []
 typo_id: 309
 ---
 Photos of the Alcoa factory fire which I emailed to the Banbury Guardian have
-been [published on their website](http://www.banburyguardian.co.uk/news?articleid=2858744),
+been [published on their website](https://web.archive.org/web/20071016213555/http://www.banburyguardian.co.uk/news?articleid=2858744),
 along with extracts from the email I sent them.
 
 Higher resolution pictures than the ones they published are after the jump.

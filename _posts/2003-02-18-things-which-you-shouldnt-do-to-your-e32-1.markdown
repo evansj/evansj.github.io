@@ -11,5 +11,5 @@ Number 1 in a short series, things you shouldn't do to your E32.
 #1: Let a monkey sit on the bonnet.
 ===================================
 
-<img src="/files/20030218234854902_2.jpg" height="600" width="800" border="1" hspace="4" vspace="4" alt=" Images Articles 20030218234854902 2" />
+![Images Articles 20030218234854902 2]({{ site.baseurl }}/files/20030218234854902_2.jpg)
 

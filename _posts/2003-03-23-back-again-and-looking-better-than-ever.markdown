@@ -13,11 +13,11 @@ Here's some pics.
 
 Before
 ------
-<img src="/files/20030323000726605_1.jpg" height="306" width="401" border="1" hspace="4" vspace="4" alt="Before" />
+![Before]({{ site.baseurl }}/files/20030323000726605_1.jpg)
 
 After
 -----
-<img src="/files/20030323000726605_2.jpg" height="269" width="400" border="1" hspace="4" vspace="4" alt="After" />
+![After]({{ site.baseurl }}/files/20030323000726605_2.jpg)
 
 The only parts you need to change to get the wider grille are the bonnet, the three grille sections, and the metal strip which goes underneath the grille sections. Everything else is the same on all E32 models.
 

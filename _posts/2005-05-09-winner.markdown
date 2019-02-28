@@ -6,7 +6,7 @@ typo_id: 7
 ---
 This is my favourite bit from recent TV adverts:
 
-<img src="/files/winner-1.gif" height="240" width="320" border="1" hspace="4" vspace="4" alt="Michael Winner" title="Michael Winner" />
+![Michael Winner]({{ site.baseurl }}/files/winner-1.gif)
 
 Don't have nightmares.
 
