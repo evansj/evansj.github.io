@@ -62,7 +62,7 @@ Pull out the large gear and rescue the spring from underneath. Clean all the gre
 
 Note the output shaft of the gear. It has a hex end on it, so each face is at a 60 degree angle to the next. Because we want the output wheel to start and end in the same relative position as before, we need to use a section of gear which is a multiple of 60 degrees away from the section it was originally using. See diagram.
 
-![Diagram of gear]({{ site.baseurl }}/files/20030118235231115_6.jpg)
+![Diagram of gear]({{ site.baseurl }}/files/20030118235231115_6.png)
 
 Note the thickness of the edge of the gear. There is a thin section where the end stop screw runs. It goes from the point where the spring hooks on, to a point approximately 120 degrees further round. This thin area has to be extended by 60 degrees. Clamp the gear in a vice and remove a section with a hacksaw, then clean up the edge with a file.
 
@@ -71,7 +71,7 @@ Note the thickness of the edge of the gear. There is a thin section where the en
 The point where the spring hooks on also has to be moved 60 degrees round the gear, and the old mounting hook has to be removed. I removed it with a cutting bit in my mini drill.
 The new mounting point can be created by drilling and tapping a small hole in the gear, then driving a machine screw through the hole to form a peg for the spring. Remember, this peg is also the end stop, and you will probably find that the end stop screw in the gearbox casing is not long enough to reach it. You will need to replace the end stop screw with a slightly longer one. NB the other hole near the new spring hanger, in the picture, was an earlier attempt at a different fix method. You can ignore it.
 
-![Motor, gearbox and gear ready for reassembly]({{ site.baseurl }}/files/20030118235231115_8.jpg)
+![Motor, gearbox and gear ready for reassembly]({{ site.baseurl }}/files/20030118235231115_8.png)
 
 Put a bit of grease on the spring and replace it back behind the gear, in the same orientation as it came out (shown in the diagram in green). NB it is upside down in the picture, with respect to the orientation of the gear. The diagram is correct. Put a bit more grease around the teeth of the gear, align it with the gearbox and replace it, remember the centre of the spring has to line up with the centre spring hanger.
 
