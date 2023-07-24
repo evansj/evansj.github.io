@@ -26,14 +26,11 @@ owner:
   bio:            "I'm into electronics, microcontrollers, and computing in general. I work in IT in infrastructure and systems architecture."
   email:          jon.evans@pobox.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        burmasauce
-  facebook:       
+  mastodon:
+    name:         "@JonEvans@mas.to"
+    url:          "https://mas.to/@JonEvans"
   github:         evansj
-  stackexchange:  
-  linkedin:       
-  instagram:      
   flickr:         jonevans
-  tumblr:         
 
 # Background image to be tiled on all pages
 background: 
