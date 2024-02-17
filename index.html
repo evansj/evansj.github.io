@@ -30,6 +30,10 @@ image:
   </header>
   <div class="entry-content">
     {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+    {%- if post.content.size > post.excerpt.size -%}
+    <br/>
+    <a href="{{ site.url }}{{ post.url }}" class="readmore">Read More</a>
+    {%- endif -%}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

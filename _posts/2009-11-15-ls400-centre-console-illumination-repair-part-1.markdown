@@ -6,8 +6,13 @@ tags:
 - Cars
 typo_id: 333
 ---
-This is the first major bit of car DIY I've attempted since I bought the Lexus about 5 years ago. The illumination for both the driver's and passenger's temperature displays has failed, and it finally annoyed me enough to do something about it.
+This is the first major bit of car DIY I've attempted since I bought the Lexus
+about 5 years ago. The illumination for both the driver's and passenger's
+temperature displays has failed, and it finally annoyed me enough to do
+something about it.
+
 <!-- read more -->
+
 Before you start, disconnect the battery negative terminal.
 
 ![DSC_2732.jpg]({{ site.baseurl }}/files/DSC_2732.jpg)Bagpuss is watching you

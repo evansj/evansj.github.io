@@ -1,0 +1,19 @@
+---
+layout: post-index
+title: All Posts
+description: All posts
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<article>
+  <h2 id="{{ this_word }}">{{ this_word }}</h2>
+  <ul>
+  {% for post in site.posts %}{% if post.title != null %}
+    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{post.date | date: "%-d %B %Y"}}</li>
+  {% endif %}{% endfor %}
+  </ul>
+</article>
+

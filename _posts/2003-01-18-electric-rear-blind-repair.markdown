@@ -10,6 +10,7 @@ typo_id: 91
 Symptoms
 --------
 When the blind is retracted it makes a horrible grinding noise for about 10 seconds
+
 Diagnosis
 ---------
 It seems that the electronic control unit for the rear blind simply applies power to the motor for a set period of time. When the blind reaches the end of its travel it is supposed to stall the motor until the control unit switches off the power.
@@ -81,7 +82,7 @@ Grease up the smaller gear and replace it. Put on the cover and screw it down.
 
 Put a spanner on the spindle to help turn it. Remember it normally has the weight of the blind helping it turn. You need to turn it anticlockwise to tighten the spring, so apply 12v with the right polarity (trial and error!), and help it turn with the spanner (remember you've still got a section of bad teeth in there). When it has turned round enough so that the end stop screw is between the two marks, stop the motor, replace the screw, then apply the power again, while still helping with the spanner, and drive it all the way to the end stop. Now drive it back again to make sure the other end stop is OK. At this point I realised I needed a longer end stop screw because it couldn't reach the new end stop. Keep testing but always remember to help it with the spanner when it is turning against the spring.
 
-When you are happy, drive it anticlockwise to the end stop then back it off about 10 degrees. Replace the wheel with the two acuating arms on it and tighten the centre screw. Thread the long arm back into the parcel shelf and re-locate the two ends of the arms. The fact that you backed off the motor a bit will help you here as you can potentially raise the blind slightly by hand to get the ends to line up.
+When you are happy, drive it anticlockwise to the end stop then back it off about 10 degrees. Replace the wheel with the two actuating arms on it and tighten the centre screw. Thread the long arm back into the parcel shelf and re-locate the two ends of the arms. The fact that you backed off the motor a bit will help you here as you can potentially raise the blind slightly by hand to get the ends to line up.
 Replace the 3 screws holding the gearbox to the parcel shelf, in the same positions as you marked when you removed them. The reason they allow movement from side to side is to equalise each side of the blind so that it extends straight.
 
 Flip the parcel shelf over so it's the right way up and apply power to the motor. If all is well it will extend completely, if your power supply is a bit feeble you might have to help it like I did (remember your car battery can kick out loads of amps, a wall wart power supply is considerably weaker).

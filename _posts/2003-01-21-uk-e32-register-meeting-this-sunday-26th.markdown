@@ -6,4 +6,5 @@ tags:
 - From my old site
 typo_id: 77
 ---
-The first UK E32 Register meeting of 2003 will take place this Sunday at 1pm in the car park of the Harvester Restaurant in Watford.
+The first UK E32 Register meeting of 2003 will take place this Sunday at 1pm in
+the car park of the Harvester Restaurant in Watford.
