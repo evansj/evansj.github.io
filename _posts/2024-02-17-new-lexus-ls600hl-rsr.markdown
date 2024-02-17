@@ -4,6 +4,7 @@ title: The Lexus LS600hL RSR
 tags:
 - Cars
 - Lexus
+- Lexus LS600hL
 ---
 
 I bought a new car! After 12 years I'm driving a Lexus again. Back in 2011

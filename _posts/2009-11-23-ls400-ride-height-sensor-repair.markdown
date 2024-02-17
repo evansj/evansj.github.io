@@ -2,6 +2,8 @@
 layout: post
 title: LS400 ride height sensor repair
 tags:
+- Lexus
+- Lexus LS400
 - Lexus Repairs
 - Cars
 typo_id: 335

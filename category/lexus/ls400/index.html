@@ -1,0 +1,18 @@
+---
+layout: post-index
+title: Lexus LS400
+description: "All Lexus LS400 posts"
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<article>
+  <h2>All Lexus LS400 posts</h2>
+  <ul>
+  {% for post in site.tags["Lexus LS400"] %}{% if post.title != null %}
+    <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{post.date | date: "%-d %B %Y"}}</li>
+  {% endif %}{% endfor %}
+  </ul>
+</article>

@@ -2,6 +2,8 @@
 layout: post
 title: Forty-two Seventy
 tags:
+- Lexus
+- Lexus LS400
 - Lexus Repairs
 - Cars
 typo_id: 308

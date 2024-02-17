@@ -2,6 +2,8 @@
 layout: post
 title: LS400 centre console illumination repair part 2
 tags:
+- Lexus
+- Lexus LS400
 - Lexus Repairs
 - Cars
 typo_id: 334

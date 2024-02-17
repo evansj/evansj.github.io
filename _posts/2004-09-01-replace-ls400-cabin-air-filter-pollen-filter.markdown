@@ -2,6 +2,8 @@
 layout: post
 title: Replace LS400 cabin air filter (pollen filter)
 tags:
+- Lexus
+- Lexus LS400
 - Lexus Repairs
 - Cars
 typo_id: 40
