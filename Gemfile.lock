@@ -283,6 +283,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  jekyll-redirect-from
   jekyll-theme-minimal
   rake
   webrick (~> 1.8)
