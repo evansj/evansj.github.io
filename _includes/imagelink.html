@@ -1,0 +1,6 @@
+<figure class="image">
+  <a href="{{site.baseurl}}/files{{include.path}}/{{include.img}}.jpeg">
+    <img src="{{site.baseurl}}/files{{include.path}}/{{include.img}}_small.{{ include.type | default: 'jpeg' }}" alt="{{ include.description }}">
+  </a>
+  <figcaption>{{ include.description }}</figcaption>
+</figure>

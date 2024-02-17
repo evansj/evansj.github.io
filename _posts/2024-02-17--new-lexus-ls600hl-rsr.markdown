@@ -12,8 +12,7 @@ a MINI Clubman Cooper S. Now I have a Lexus again and it's an absolute beast of
 a car. I bought the car back at the beginning of October 2023 so it's taken me
 a while to update this site!
 
-[![Lexus LS600hL]({{site.baseurl}}/files/lexus/ls600hl/IMG_1535_small.jpeg)]({{site.baseurl}}/files/lexus/ls600hl/IMG_1535.jpeg)
-*The car, just after I agreed to buy it*
+{% include imagelink.html path="/lexus/ls600hl" img="IMG_1535" description="The LS600hL, just after I agreed to buy it" %}
 
 I managed to get loads of information about the car from my local Lexus
 dealership. It was manufactured on 25th Feb 2008, and sold on 30th May 2008.
@@ -36,8 +35,7 @@ the windscreen) were tinted. I could barely see anything in the wing mirrors.
 As soon as I got home I removed all of the tint to return the car back to
 factory specs.
 
-[![Removing the window tint]({{site.baseurl}}/files/lexus/ls600hl/IMG_1537_small.jpeg)]({{site.baseurl}}/files/lexus/ls600hl/IMG_1537.jpeg)
-*Removing the window tint*
+{% include imagelink.html path="/lexus/ls600hl" img="IMG_1537" description="Removing the window tint" %}
 
 I clearly neglected some inspection items while looking at the car, because
 I didn't realise that the rubber seal around the sunroof was completely shot.
