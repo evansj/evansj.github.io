@@ -6,11 +6,13 @@ tags:
 - Cars
 typo_id: 334
 ---
-The repair was successful in the end, read on for more information.
-<!-- read more -->
-Once the surface mount bulbs have been desoldered from the circuit board, they can be "repaired" by replacing the bulb part of them with a brand new bulb. I used product code BT43 from Maplin.
+Once the surface mount bulbs have been desoldered from the circuit board, they
+can be "repaired" by replacing the bulb part of them with a brand new bulb.
+I used product code BT43 from Maplin.
 
-![bulbs]({{ site.baseurl }}/files/bulbs.jpg)
+{% include image.html img="bulbs.jpg" description="Broken bulbs" %}
+
+<!-- read more -->
 
 The surface mount bulbs consist of a small black plastic carrier to hold the bulb, and a translucent green rubber cap over the top of the bulb. The rubber cap just pulls off, then the bulb can be removed from the holder by cutting the wires.
 
@@ -20,6 +22,6 @@ Tin the wires with solder, then replace the green rubber cap and solder the bulb
 
 Here are some renderings of the bulb. The replacement bulbs from Maplin are slightly taller but still fit OK.
 
-![light bulb holder]({{ site.baseurl }}/files/light_bulb_holder.jpg)
+{% include image.html img="light_bulb_holder.jpg" description="Light bulb holder dimensions" %}
 
-![light bulb holder]({{ site.baseurl }}/files/light_bulb_holder_2.jpg)
+{% include image.html img="light_bulb_holder_2.jpg" description="Light bulb holder dimensions" %}

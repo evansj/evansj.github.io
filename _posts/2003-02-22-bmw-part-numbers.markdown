@@ -7,12 +7,15 @@ tags:
 - From my old site
 typo_id: 67
 ---
-A BMW Part number is formatted like this: 00-00-0-000-000.  The first two digits reveal the  section that the part belongs to.  Read on for my findings so far...
+A BMW Part number is formatted like this: 00-00-0-000-000.  The first two
+digits reveal the section that the part belongs to.
+
 <!-- read more -->
+
 SS-00-0-000-000
 ---------------
 
-The section numbers are as follows:
+The section numbers that I know about are as follows:
 
 * 07 - generic parts such as lubricants, fasteners, cable etc.
 * 11 - engine
